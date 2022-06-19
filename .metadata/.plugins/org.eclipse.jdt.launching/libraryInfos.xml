@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<libraryInfos>
+<libraryInfo home="C:\Users\naren\Desktop\eclipse [JUNO]" version="1.7.0_79">
+<bootpath>
+<entry path="C:\Users\naren\Desktop\eclipse [JUNO]\jre\lib\resources.jar"/>
+<entry path="C:\Users\naren\Desktop\eclipse [JUNO]\jre\lib\rt.jar"/>
+<entry path="C:\Users\naren\Desktop\eclipse [JUNO]\jre\lib\sunrsasign.jar"/>
+<entry path="C:\Users\naren\Desktop\eclipse [JUNO]\jre\lib\jsse.jar"/>
+<entry path="C:\Users\naren\Desktop\eclipse [JUNO]\jre\lib\jce.jar"/>
+<entry path="C:\Users\naren\Desktop\eclipse [JUNO]\jre\lib\charsets.jar"/>
+<entry path="C:\Users\naren\Desktop\eclipse [JUNO]\jre\lib\jfr.jar"/>
+<entry path="C:\Users\naren\Desktop\eclipse [JUNO]\jre\classes"/>
+</bootpath>
+<extensionDirs>
+<entry path="C:\Users\naren\Desktop\eclipse [JUNO]\jre\lib\ext"/>
+<entry path="C:\WINDOWS\Sun\Java\lib\ext"/>
+</extensionDirs>
+<endorsedDirs>
+<entry path="C:\Users\naren\Desktop\eclipse [JUNO]\jre\lib\endorsed"/>
+</endorsedDirs>
+</libraryInfo>
+</libraryInfos>
